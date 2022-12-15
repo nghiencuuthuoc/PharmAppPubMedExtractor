@@ -1,4 +1,16 @@
+
+![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/PharmApp-logo.png)
 # PharmApp | PubMed Extractor
+Copyright 2022 | Nghiên Cứu Thuốc | RD Pharma Plus
+
+Email: nghiencuuthuoc@gmail.com | info@nghiencuuthuoc.com
+
+Web: http://www.nghiencuuthuoc.com
+
+See more: https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthuoc
+
+
+
 PUBMED.gov scrapper. Built in the Django framework as a web appliciation.
 
 Brief about the project:
@@ -41,12 +53,3 @@ Tools used : Python, Django Framework, Html, CSS.
 4) Need to implement correct spacing and remove empty spaces in the excelsheet download.
 ##
 
-![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/PharmApp-logo.png)
-# PharmApp - Drug Discovery and Development
-Copyright 2022 | Nghiên Cứu Thuốc | RD Pharma Plus
-
-Email: nghiencuuthuoc@gmail.com | info@nghiencuuthuoc.com
-
-Web: http://www.nghiencuuthuoc.com
-
-See more: https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthuoc
