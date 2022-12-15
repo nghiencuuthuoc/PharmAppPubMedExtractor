@@ -1,4 +1,4 @@
-# website-scrapper-web-application
+# PharmApp | PubMed Extractor
 PUBMED.gov scrapper. Built in the Django framework as a web appliciation.
 
 Brief about the project:
