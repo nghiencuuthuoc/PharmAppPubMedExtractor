@@ -11,7 +11,7 @@ Tools used : Python, Django Framework, Html, CSS.
 ### HomePage:
 <p align="center"> 
   <kbd>
-    <img src="/screenshots/hp.png">
+    <img src="/screenshots/hp.jpg">
   </kbd>
 </p>
 
