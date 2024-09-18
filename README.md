@@ -1,13 +1,8 @@
-
-![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/PharmApp-logo.png)
+![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/images/PharmApp-logo.png)
 # PharmApp | PubMed Extractor
-Copyright 2022 | Nghiên Cứu Thuốc | RD Pharma Plus
+Copyright 2024 | Nghiên Cứu Thuốc | RD_Pharma_Plus
 
-Email: nghiencuuthuoc@gmail.com | info@nghiencuuthuoc.com
-
-Web: http://www.nghiencuuthuoc.com
-
-See more: https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthuoc
+Email: nghiencuuthuoc@gmail.com | nghiencuuthuoc.com | x.com/nghiencuuthuoc | facebook.com/nghiencuuthuoc
 
 
 
@@ -20,7 +15,22 @@ Brief about the project:
 Tools used : Python, Django Framework, Html, CSS.
 
 ## Website Preview:
+### Folder:
+
+<p align="center"> 
+  <kbd>
+    <img src="/screenshots/pubmedextractor_folder.jpg">
+  </kbd>
+</p>
+### Runserver:
+<p align="center"> 
+  <kbd>
+    <img src="/screenshots/runserver.jpg">
+  </kbd>
+</p>
+
 ### HomePage:
+
 <p align="center"> 
   <kbd>
     <img src="/screenshots/hp.jpg">
@@ -28,6 +38,8 @@ Tools used : Python, Django Framework, Html, CSS.
 </p>
 
 ### SummaryPage:
+
+
 <p align="center"> 
   <kbd>
     <img src="/screenshots/sp.png">
@@ -35,8 +47,17 @@ Tools used : Python, Django Framework, Html, CSS.
 </p>
 
 ## Runserver:
+
 ` python manage.py runserver 127.0.0.1:80 `
 
+## Example:
+
+Enter drug name: nexium
+<p align="center"> 
+  <kbd>
+    <img src="/screenshots/nexium.jpg">
+  </kbd>
+</p>
 ## Notes:
 1) Typical Django project. (MVT)
 2) Run the django project.
