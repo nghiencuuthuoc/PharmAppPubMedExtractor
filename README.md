@@ -34,6 +34,11 @@ Tools used : Python, Django Framework, Html, CSS.
   </kbd>
 </p>
 
+## Runserver:
+'''
+python manage.py runserver 127.0.0.1:80
+'''
+
 ## Notes:
 1) Typical Django project. (MVT)
 2) Run the django project.
