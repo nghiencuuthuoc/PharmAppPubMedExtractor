@@ -1,11 +1,4 @@
-![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/images/PharmApp-logo.png)
-# PharmApp | PubMed Extractor
-Copyright 2024 | Nghiên Cứu Thuốc | RD_Pharma_Plus
-
-Email: nghiencuuthuoc@gmail.com | nghiencuuthuoc.com | x.com/nghiencuuthuoc | facebook.com/nghiencuuthuoc
-
-
-
+# website-scrapper-web-application
 PUBMED.gov scrapper. Built in the Django framework as a web appliciation.
 
 Brief about the project:
@@ -15,49 +8,20 @@ Brief about the project:
 Tools used : Python, Django Framework, Html, CSS.
 
 ## Website Preview:
-### Folder:
-
-<p align="center"> 
-  <kbd>
-    <img src="/screenshots/pubmedextractor_folder.jpg">
-  </kbd>
-</p>
-### Runserver:
-<p align="center"> 
-  <kbd>
-    <img src="/screenshots/runserver.jpg">
-  </kbd>
-</p>
-
 ### HomePage:
-
 <p align="center"> 
   <kbd>
-    <img src="/screenshots/hp.jpg">
+    <img src="/screenshots/hp.png">
   </kbd>
 </p>
 
 ### SummaryPage:
-
-
 <p align="center"> 
   <kbd>
     <img src="/screenshots/sp.png">
   </kbd>
 </p>
 
-## Runserver:
-
-` python manage.py runserver 127.0.0.1:80 `
-
-## Example:
-
-Enter drug name: nexium
-<p align="center"> 
-  <kbd>
-    <img src="/screenshots/nexium.jpg">
-  </kbd>
-</p>
 ## Notes:
 1) Typical Django project. (MVT)
 2) Run the django project.
@@ -77,3 +41,12 @@ Enter drug name: nexium
 4) Need to implement correct spacing and remove empty spaces in the excelsheet download.
 ##
 
+![](https://raw.githubusercontent.com/nghiencuuthuoc/PharmApp/master/PharmApp-logo.png)
+# PharmApp - Drug Discovery and Development
+Copyright 2022 | Nghiên Cứu Thuốc | RD Pharma Plus
+
+Email: nghiencuuthuoc@gmail.com | info@nghiencuuthuoc.com
+
+Web: http://www.nghiencuuthuoc.com
+
+See more: https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthuoc
